@@ -5,3 +5,5 @@
 - 📗 I love books and e-books (I'm learning e-book format in my free time)
 
 - 📫 How to reach me: riccardo.modolo.1@studenti.unipd.it
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ricksrick&theme=algolia&show_icons=true&count_private=true&include_all_commits=false)
