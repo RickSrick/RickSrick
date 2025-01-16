@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my university degree**
 - 🌱 I’m currently learning **Godot Game Engine** with *GDScript*
-- 📗 I love books and e-books (I'm learning e-book format in my free time)
+- 📗 I love books and e-books
 
 - 📫 How to reach me: riccardo.modolo.1@studenti.unipd.it
 
